@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/fig/http-message-util" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/firebase/php-jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/google/auth" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/google/cloud" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/kreait/firebase-php" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/kreait/firebase-tokens" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/mtdowling/jmespath.php" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/rize/uri-template" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/superbalist/flysystem-google-storage" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

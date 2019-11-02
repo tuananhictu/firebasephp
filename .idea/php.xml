@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/includes/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/includes/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/includes/vendor/google/cloud" />
+      <path value="$PROJECT_DIR$/includes/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/includes/vendor/fig/http-message-util" />
+      <path value="$PROJECT_DIR$/includes/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/includes/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/includes/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/includes/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/includes/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/includes/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/includes/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/includes/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/includes/vendor/composer" />
+      <path value="$PROJECT_DIR$/includes/vendor/kreait/firebase-php" />
+      <path value="$PROJECT_DIR$/includes/vendor/kreait/firebase-tokens" />
+      <path value="$PROJECT_DIR$/includes/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/includes/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/includes/vendor/superbalist/flysystem-google-storage" />
+      <path value="$PROJECT_DIR$/includes/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/includes/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/includes/vendor/rize/uri-template" />
+    </include_path>
+  </component>
+</project>
